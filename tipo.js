@@ -14,3 +14,12 @@ const numeroPontoFlutuanteDois = .3;
 // Nan igual no Java (não e numero)
 
 console.log(numeroPontoFlutuante, numeroPontoFlutuanteDois);
+
+// template String
+
+const varTeste = `
+  Teste de string ${operacao} ${meuNumero} ${numeroPontoFlutuante}
+  ${numeroPontoFlutuanteDois} apenas para testar as variaveis utilizadas 
+  nesse script. Concatenar tudo em um template string
+`;
+console.log(varTeste);
