@@ -20,6 +20,11 @@ console.log(numeroPontoFlutuante, numeroPontoFlutuanteDois);
 const varTeste = `
   Teste de string ${operacao} ${meuNumero} ${numeroPontoFlutuante}
   ${numeroPontoFlutuanteDois} apenas para testar as variaveis utilizadas 
-  nesse script. Concatenar tudo em um template string
+  nesse script. Concatenar tudo em um template string top essa merda
 `;
 console.log(varTeste);
+var resultado = '' == 0;
+console.log(resultado);
+const valorQ = [];
+var resultadoD = valorQ == 0;
+console.log(resultadoD);
