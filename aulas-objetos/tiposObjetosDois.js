@@ -10,4 +10,5 @@ const estudante = {
     },
   };
 
-  console.log(estudante);
+  console.log(estudante); // tem varios metodos 
+  console.log(estudante.materias);
