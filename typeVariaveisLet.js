@@ -1,6 +1,6 @@
 // var valor default de variaveis js
 // let 
-// const 
+// const constante   
 
 var altura = 5;
 var comprimento = 7;
