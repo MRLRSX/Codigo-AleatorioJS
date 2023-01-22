@@ -19,3 +19,6 @@ for(let elemento of notas){
     mm += elemento;
 }
 console.log(mm / notas.length)
+let auxiliar = 0.0;
+notas.forEach((x) => auxiliar+= x);
+console.log(auxiliar);
