@@ -26,3 +26,9 @@ const cliente = {
   }
   ligaParaCliente(cliente.telefone[0], cliente.telefone[1]);
   ligaParaCliente(...cliente.telefone);  
+
+  const encomenda = {
+    destinatario: cliente.nome,
+    ...cliente.enderecos[0], // cacete maluco
+  };
+  console.log(encomenda);
