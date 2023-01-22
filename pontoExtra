@@ -1,0 +1,6 @@
+const notas = [10, 9.5, 8, 7, 6];
+
+const adicionaUmPonto = (x) => x + 1 >= 10 ? 10 : x + 1;
+
+const mTeste = notas.map(adicionaUmPonto);
+console.log(mTeste);
