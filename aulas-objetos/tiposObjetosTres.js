@@ -14,5 +14,11 @@ const estudante = {
     materia4: "Java For",
   },],
   };
-const chaves = ['materia1', 'materia2', 'materia3', 'meteria4'];
-chaves.forEach((chaves) => console.log(`- ${chaves} - ${estudante.materias[0][chaves]}`));
+const chaves = ['materia1', 'materia2', 'materia3', 'materia4'];
+estudante.materias.push({
+    materia1: "Clean Code",
+    materia2: "AWS CLI",
+    materia3: "DOCKER",
+    materia4: "Deploy And Build",
+});
+chaves.forEach((chaves) => console.log(`- ${chaves} - ${estudante.materias[1][chaves]}`));
