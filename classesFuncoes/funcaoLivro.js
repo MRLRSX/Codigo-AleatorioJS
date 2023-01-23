@@ -11,3 +11,9 @@ const GraphQL = new Livros("GraphQL", "Casa do Código", 143);
 console.log(GraphQL.getNome());
 console.log(GraphQL.getEditora());
 console.log(GraphQL.getPaginas());
+
+//prototype -> define as propriedades praticamente de toda funcionalidade etc ..... 
+
+//const nome = "Alura"; 
+//const temp = new String(nome);
+//console.log(temp.toString());

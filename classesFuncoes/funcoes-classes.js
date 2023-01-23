@@ -7,4 +7,5 @@ const Livro = {
     },
 };
 
-Livro.anunciar();
+Livro.anunciar(); // Objeto Literal 
+
