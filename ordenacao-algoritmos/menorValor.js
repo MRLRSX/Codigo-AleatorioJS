@@ -5,4 +5,4 @@ for(let atual = 0; atual < livros.length; atual++){
         maisBarato = atual;
     }
 }
-console.log(`O livro mais barato custa ${livros[maisBarato].preco} e o titulo e ${livros[maisBarato].titulo}`)
+console.log(`O livro mais barato custa ${livros[maisBarato].preco} e o titulo e ${livros[maisBarato].titulo}`);
