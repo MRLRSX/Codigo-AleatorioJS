@@ -1,0 +1,38 @@
+[
+    {
+        "titulo":"Java Script",
+        "editora": "Casa do Código",
+        "paginas": "286",
+        "preco": "25.00"
+    },
+    {
+        "titulo":"Java",
+        "editora": "Casa do Código",
+        "paginas": "600",
+        "preco": "50.00"
+    },
+    {
+        "titulo":" PHP ",
+        "editora": "Casa do Código",
+        "paginas": "302",
+        "preco": "15.00"
+    },
+    {
+        "titulo":"PYTHON",
+        "editora": "Casa do Código",
+        "paginas": "400",
+        "preco": "20.00"
+    },
+    {
+        "titulo":"GO",
+        "editora": "Casa do Código",
+        "paginas": "256",
+        "preco": "45.00"
+    },
+    {
+        "titulo":"Elixir",
+        "editora": "Casa do Código",
+        "paginas": "226",
+        "preco": "50.00"
+    }
+]
