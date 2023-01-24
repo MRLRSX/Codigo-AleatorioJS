@@ -34,5 +34,29 @@
         "editora": "Casa do Código",
         "paginas": "226",
         "preco": "50.00"
+    },
+    {
+        "titulo":"Rust",
+        "editora": "Galho",
+        "paginas": "250",
+        "preco": "22.00"
+    },
+    {
+        "titulo":"Ruby",
+        "editora": "Galho",
+        "paginas": "320",
+        "preco": "28.00"
+    },
+    {
+        "titulo":"C#",
+        "editora": "Galho",
+        "paginas": "410",
+        "preco": "33.00"
+    },
+    {
+        "titulo":"Scala",
+        "editora": "Galho",
+        "paginas": "560",
+        "preco": "40.00"
     }
 ]
